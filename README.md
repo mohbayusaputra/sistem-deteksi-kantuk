@@ -1,5 +1,7 @@
 # Sistem Deteksi Kantuk (Drowsiness Detection System)
 
+> **Catatan:** Projek ini merupakan **Projek UAS (Ujian Akhir Semester) Mata Kuliah Computer Vision**.
+
 Projek **Computer Vision** berbasis **MediaPipe Face Mesh**, **OpenCV**, dan **Deep Learning (MobileNetV2 / TensorFlow)** untuk mendeteksi rasa kantuk dan ketidakfokusan (menoleh/menunduk) secara *real-time*.
 
 ## Fitur Utama
